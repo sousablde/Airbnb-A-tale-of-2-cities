@@ -1,3 +1,5 @@
+![POrtovsLisbon](https://github.com/sousablde/Airbnb-A-tale-of-2-cities/blob/master/PvLlogo.png)
+
 # Data Science Nanodegree
 ## Write a Data Science Blog Post
 ### Airbnb: a tale of 2 cities
