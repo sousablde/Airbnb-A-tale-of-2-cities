@@ -1,6 +1,7 @@
 # Data Science Nanodegree
 ## Write a Data Science Blog Post
 ### Airbnb: a tale of 2 cities
+### Blog post link: https://medium.com/@sousablde/airbnb-a-tale-of-two-cities-b01b2bee4c08
 
 
 ### Table of Contents
@@ -9,9 +10,8 @@
 2. [Introduction](#introduction)
 3. [Project Motivation](#motivation)
 4. [Files](#files)
-5. [Instructions](#instructions)
-6. [Results](#results)
-7. [Licensing, Authors, and Acknowledgements](#licensing)
+5. [Results](#results)
+6. [Licensing, Authors, and Acknowledgements](#licensing)
 
 
 ## Installation <a name="installation"></a>
